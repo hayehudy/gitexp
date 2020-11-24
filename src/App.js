@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          !!! יא גבר
+          אין צדיק כבן עמרם!
         </p>
         <a
           className="App-link"
